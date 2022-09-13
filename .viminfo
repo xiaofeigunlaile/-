@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1662343206,,"wq"
+|2,0,1662694570,,"wq"
 :q!
 |2,0,1662174901,,"q!"
 :w
@@ -53,40 +53,98 @@ $
 |3,1,36,0,1,0,1662173714,"e"
 
 # 文件标记:
-'0  2  14  /etc/yum.repos.d/dhcp.repo
-|4,48,2,14,1662343206,"/etc/yum.repos.d/dhcp.repo"
-'1  131  20  /etc/vsftpd/vsftpd.conf
-|4,49,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
-'2  130  28  /etc/vsftpd/vsftpd.conf
-|4,50,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
-'3  130  28  /etc/vsftpd/vsftpd.conf
-|4,51,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
-'4  131  34  /etc/vsftpd/vsftpd.conf
-|4,52,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
-'5  131  34  /etc/vsftpd/vsftpd.conf
-|4,53,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
+'0  1  0  ~/.ssh/id_ras.pub
+|4,48,1,0,1662694570,"~/.ssh/id_ras.pub"
+'1  6  7  ~/.ssh/config
+|4,49,6,7,1662691802,"~/.ssh/config"
+'2  2  14  /etc/yum.repos.d/dhcp.repo
+|4,50,2,14,1662343206,"/etc/yum.repos.d/dhcp.repo"
+'3  131  20  /etc/vsftpd/vsftpd.conf
+|4,51,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
+'4  130  28  /etc/vsftpd/vsftpd.conf
+|4,52,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
+'5  130  28  /etc/vsftpd/vsftpd.conf
+|4,53,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
 '6  131  34  /etc/vsftpd/vsftpd.conf
 |4,54,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
-'7  130  38  /etc/vsftpd/vsftpd.conf
-|4,55,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
-'8  130  38  /etc/vsftpd/vsftpd.conf
-|4,56,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
+'7  131  34  /etc/vsftpd/vsftpd.conf
+|4,55,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
+'8  131  34  /etc/vsftpd/vsftpd.conf
+|4,56,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
 '9  130  38  /etc/vsftpd/vsftpd.conf
 |4,57,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
 
 # 跳转列表 (从新到旧):
+-'  1  0  ~/.ssh/id_ras.pub
+|4,39,1,0,1662694570,"~/.ssh/id_ras.pub"
+-'  6  7  ~/.ssh/config
+|4,39,6,7,1662691802,"~/.ssh/config"
+-'  6  7  ~/.ssh/config
+|4,39,6,7,1662691802,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1662691793,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1662691793,"~/.ssh/config"
 -'  2  14  /etc/yum.repos.d/dhcp.repo
 |4,39,2,14,1662343206,"/etc/yum.repos.d/dhcp.repo"
+-'  2  14  /etc/yum.repos.d/dhcp.repo
+|4,39,2,14,1662343206,"/etc/yum.repos.d/dhcp.repo"
+-'  2  14  /etc/yum.repos.d/dhcp.repo
+|4,39,2,14,1662343206,"/etc/yum.repos.d/dhcp.repo"
+-'  2  14  /etc/yum.repos.d/dhcp.repo
+|4,39,2,14,1662343206,"/etc/yum.repos.d/dhcp.repo"
+-'  1  0  /etc/yum.repos.d/dhcp.repo
+|4,39,1,0,1662343181,"/etc/yum.repos.d/dhcp.repo"
+-'  1  0  /etc/yum.repos.d/dhcp.repo
+|4,39,1,0,1662343181,"/etc/yum.repos.d/dhcp.repo"
+-'  1  0  /etc/yum.repos.d/dhcp.repo
+|4,39,1,0,1662343181,"/etc/yum.repos.d/dhcp.repo"
 -'  1  0  /etc/yum.repos.d/dhcp.repo
 |4,39,1,0,1662343181,"/etc/yum.repos.d/dhcp.repo"
 -'  131  20  /etc/vsftpd/vsftpd.conf
 |4,39,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
 -'  131  20  /etc/vsftpd/vsftpd.conf
 |4,39,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
+-'  131  20  /etc/vsftpd/vsftpd.conf
+|4,39,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
+-'  131  20  /etc/vsftpd/vsftpd.conf
+|4,39,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
+-'  131  20  /etc/vsftpd/vsftpd.conf
+|4,39,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
+-'  131  20  /etc/vsftpd/vsftpd.conf
+|4,39,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
+-'  131  20  /etc/vsftpd/vsftpd.conf
+|4,39,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
+-'  131  20  /etc/vsftpd/vsftpd.conf
+|4,39,131,20,1662206076,"/etc/vsftpd/vsftpd.conf"
 -'  130  28  /etc/vsftpd/vsftpd.conf
 |4,39,130,28,1662177361,"/etc/vsftpd/vsftpd.conf"
 -'  130  28  /etc/vsftpd/vsftpd.conf
 |4,39,130,28,1662177361,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177361,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177361,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177361,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177361,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177361,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177361,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
+-'  130  28  /etc/vsftpd/vsftpd.conf
+|4,39,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
 -'  130  28  /etc/vsftpd/vsftpd.conf
 |4,39,130,28,1662177284,"/etc/vsftpd/vsftpd.conf"
 -'  130  28  /etc/vsftpd/vsftpd.conf
@@ -96,6 +154,30 @@ $
 -'  131  34  /etc/vsftpd/vsftpd.conf
 |4,39,131,34,1662177261,"/etc/vsftpd/vsftpd.conf"
 -'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177261,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177261,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177261,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177261,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177261,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177261,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
+|4,39,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
+-'  131  34  /etc/vsftpd/vsftpd.conf
 |4,39,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
 -'  131  34  /etc/vsftpd/vsftpd.conf
 |4,39,131,34,1662177250,"/etc/vsftpd/vsftpd.conf"
@@ -103,6 +185,30 @@ $
 |4,39,130,38,1662177243,"/etc/vsftpd/vsftpd.conf"
 -'  130  38  /etc/vsftpd/vsftpd.conf
 |4,39,130,38,1662177243,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177243,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177243,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177243,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177243,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177243,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177243,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
+-'  130  38  /etc/vsftpd/vsftpd.conf
+|4,39,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
 -'  130  38  /etc/vsftpd/vsftpd.conf
 |4,39,130,38,1662177212,"/etc/vsftpd/vsftpd.conf"
 -'  130  38  /etc/vsftpd/vsftpd.conf
@@ -123,160 +229,65 @@ $
 |4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
 -'  7  18  /etc/vsftpd/vsftpd.conf
 |4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  5  7  /etc/shells
-|4,39,5,7,1662176938,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
--'  9  11  /etc/shells
-|4,39,9,11,1662176918,"/etc/shells"
 -'  7  18  /etc/vsftpd/vsftpd.conf
-|4,39,7,18,1662176867,"/etc/vsftpd/vsftpd.conf"
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
 -'  7  18  /etc/vsftpd/vsftpd.conf
-|4,39,7,18,1662176867,"/etc/vsftpd/vsftpd.conf"
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
 -'  7  18  /etc/vsftpd/vsftpd.conf
-|4,39,7,18,1662176867,"/etc/vsftpd/vsftpd.conf"
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
 -'  7  18  /etc/vsftpd/vsftpd.conf
-|4,39,7,18,1662176867,"/etc/vsftpd/vsftpd.conf"
--'  127  18  /etc/vsftpd/vsftpd.conf
-|4,39,127,18,1662176846,"/etc/vsftpd/vsftpd.conf"
--'  127  18  /etc/vsftpd/vsftpd.conf
-|4,39,127,18,1662176846,"/etc/vsftpd/vsftpd.conf"
--'  127  18  /etc/vsftpd/vsftpd.conf
-|4,39,127,18,1662176846,"/etc/vsftpd/vsftpd.conf"
--'  127  18  /etc/vsftpd/vsftpd.conf
-|4,39,127,18,1662176846,"/etc/vsftpd/vsftpd.conf"
--'  127  18  /etc/vsftpd/vsftpd.conf
-|4,39,127,18,1662176846,"/etc/vsftpd/vsftpd.conf"
--'  127  18  /etc/vsftpd/vsftpd.conf
-|4,39,127,18,1662176846,"/etc/vsftpd/vsftpd.conf"
--'  127  18  /etc/vsftpd/vsftpd.conf
-|4,39,127,18,1662176846,"/etc/vsftpd/vsftpd.conf"
--'  127  18  /etc/vsftpd/vsftpd.conf
-|4,39,127,18,1662176846,"/etc/vsftpd/vsftpd.conf"
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
+-'  7  18  /etc/vsftpd/vsftpd.conf
+|4,39,7,18,1662177103,"/etc/vsftpd/vsftpd.conf"
 
 # 文件内的标记历史记录 (从新到旧):
+
+> ~/.ssh/id_ras.pub
+	*	1662694568	0
+	"	1	0
+
+> ~/.ssh/config
+	*	1662691800	0
+	"	6	7
+	^	6	8
+	.	6	7
+	+	6	7
 
 > /etc/yum.repos.d/dhcp.repo
 	*	1662343206	0
@@ -486,107 +497,3 @@ $
 	^	2	0
 	.	1	30
 	+	1	30
-
-> ~/shell02.sh
-	*	1661416420	0
-	"	5	2
-	^	5	3
-	.	5	2
-	+	3	0
-	+	3	22
-	+	6	11
-	+	7	15
-	+	8	18
-	+	9	15
-	+	10	10
-	+	9	10
-	+	10	18
-	+	11	15
-	+	12	18
-	+	13	15
-	+	14	18
-	+	15	3
-	+	15	11
-	+	15	10
-	+	15	17
-	+	15	35
-	+	19	17
-	+	20	18
-	+	21	1
-	+	10	13
-	+	16	17
-	+	15	2
-	+	19	9
-	+	15	15
-	+	19	16
-	+	16	16
-	+	21	1
-	+	16	17
-	+	18	0
-	+	15	20
-	+	16	15
-	+	17	0
-	+	16	0
-	+	22	3
-	+	19	0
-	+	20	5
-	+	16	5
-	+	1	14
-	+	15	13
-	+	19	4
-	+	5	2
-
-> ~/shell01.sh
-	*	1661410121	0
-	"	3	16
-	^	3	17
-	.	3	16
-	+	1	18
-	+	1	11
-	+	1	70
-	+	1	116
-	+	1	77
-	+	1	117
-	+	1	84
-	+	1	83
-	+	1	40
-	+	1	82
-	+	1	90
-	+	1	61
-	+	1	63
-	+	1	96
-	+	1	65
-	+	1	92
-	+	1	31
-	+	1	88
-	+	1	124
-	+	1	32
-	+	1	66
-	+	1	95
-	+	1	67
-	+	1	96
-	+	1	130
-	+	1	61
-	+	1	95
-	+	1	66
-	+	1	90
-	+	1	61
-	+	1	90
-	+	1	128
-	+	1	493
-	+	3	34
-	+	3	13
-	+	4	12
-	+	5	12
-	+	6	26
-	+	7	8
-	+	3	5
-	+	7	6
-	+	6	3
-	+	7	11
-	+	6	10
-	+	5	10
-	+	4	10
-	+	3	10
-	+	6	16
-	+	3	16
