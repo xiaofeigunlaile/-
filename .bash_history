@@ -465,3 +465,16 @@ ftp 192.168.0.111
 ftp 
 ftp 192.168.0.111
 vim /etc/vsftpd/vsftpd.conf
+cd
+echo "# -" REAME.md
+echo "# -" >> REAME.md
+git init
+git commit -m "first commit "
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.comxiaofeigunlaile/-.git
+git push -u origin main
+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
+git add .
+git push -u origin main
